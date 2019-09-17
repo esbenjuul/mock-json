@@ -2,5 +2,10 @@
 	"couponCode": {
         "code": "Autumn10-2019",
         "discountAmount": 10
-    }
+    },
+    "cart": {},
+    "otherStuff": {},
+    "search": {},
+    "products": {},
+    "tests": {}
 }
