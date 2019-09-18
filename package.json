@@ -1,5 +1,6 @@
 {
-  "scrips": {
+  "license": "MIT",
+  "scripts": {
     "start": "json-server db.json"
   },
   "dependencies": {

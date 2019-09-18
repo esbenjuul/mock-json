@@ -1,1 +1,1 @@
-web: json-server db.json
+web: yarn run start
