@@ -1,7 +1,8 @@
 {
   "license": "MIT",
   "scripts": {
-    "start": "json-server db.json --port 43"
+    "start": "json-server db.json --port 43",
+    "dev": "json-server db.json"
   },
   "dependencies": {
     "json-server": "^0.15.1"
