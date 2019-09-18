@@ -3,6 +3,490 @@
         "code": "Autumn10-2019",
         "discountAmount": "10,00"
     },
+    "configurator": {
+        "optionsGroups": {
+            "productInfo": {
+                "productName": "Fiber Armchair - Left",
+                "sku": "sku1234567890",
+                "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                "features": {
+                    "fabric": "SteelcutTrio2_133",
+                    "facing": null
+                }
+            },
+            "optionGroups": [
+                {
+                    "groupType": "bigRadio",
+                    "label": "Seat finish",
+                    "id": "seat-finish-id",
+                    "hasConflict": false,
+                    "initialSelectedOption": {
+                        "name": "Option 2",
+                        "id": "bigoption-2",
+                        "value": "bigoption-2-value",
+                        "conflicting": false
+                    },
+                    "options": [
+                        {
+                            "image": "/static/svg/chair-icon.svg",
+                            "imageAlt": "Alt tekst",
+                            "value": "bigoption-1-value",
+                            "id": "bigoption-1",
+                            "name": "Option 1",
+                            "conflicting": false
+                        },
+                        {
+                            "image": "/static/svg/chair-icon.svg",
+                            "imageAlt": "Alt tekst",
+                            "value": "bigoption-2-value",
+                            "id": "bigoption-2",
+                            "name": "Option 2",
+                            "conflicting": false
+                        },
+                        {
+                            "image": "/static/svg/chair-icon.svg",
+                            "imageAlt": "Alt tekst",
+                            "value": "bigoption-3-value",
+                            "id": "bigoption-3",
+                            "name": "Option 3",
+                            "conflicting": true
+                        },
+                        {
+                            "image": "/static/svg/chair-icon.svg",
+                            "imageAlt": "Alt tekst",
+                            "value": "bigoption-4-value",
+                            "id": "bigoption-4",
+                            "name": "Option 4",
+                            "conflicting": false
+                        },
+                        {
+                            "image": "/static/svg/chair-icon.svg",
+                            "imageAlt": "Alt tekst",
+                            "value": "bigoption-5-value",
+                            "id": "bigoption-5",
+                            "name": "Option 5",
+                            "conflicting": false
+                        }
+                    ]
+                },
+                {
+                    "groupType": "upholstery",
+                    "label": "Upholstery",
+                    "id": "upholsteryId",
+                    "hasConflict": false,
+                    "dropdownContents": {
+                        "color": [
+                            {
+                                "id": "blue-id",
+                                "text": "Blue"
+                            },
+                            {
+                                "id": "red-id",
+                                "text": "Red"
+                            },
+                            {
+                                "id": "green-id",
+                                "text": "Green"
+                            }
+                        ],
+                        "type": [
+                            {
+                                "id": "some-id",
+                                "text": "type A"
+                            },
+                            {
+                                "id": "someB-id",
+                                "value": "some-value",
+                                "text": "type B"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "id": "remix-id",
+                                "text": "Remix"
+                            },
+                            {
+                                "id": "park-id",
+                                "text": "Park"
+                            }
+                        ]
+                    },
+                    "initialSelectedOption": {
+                        "id": "remix-066",
+                        "value": "remix-066-value",
+                        "text": "Remix, 066",
+                        "itemLabel": "Textile name",
+                        "name": "Remix, 066",
+                        "info": {
+                            "extra": [
+                                {
+                                    "label": "Designer",
+                                    "text": "Dijkmeier & Ridolfo 2"
+                                },
+                                {
+                                    "label": "Composition",
+                                    "text": "90% wool (worsted), 10% nylon"
+                                },
+                                {
+                                    "label": "Durability",
+                                    "text": "100,000 Martindale"
+                                },
+                                {
+                                    "label": "Sustainability",
+                                    "text": "Complies with EU ecolabel 'The Flower'"
+                                }
+                            ]
+                        },
+                        "conflicting": false
+                    },
+                    "options": [
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0746_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0746_(150).jpg",
+                            "imageAlt": "Remix, 062",
+                            "id": "remix-062",
+                            "value": "remix-062-value",
+                            "text": "Remix, 062",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 062",
+                            "conflicting": false,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% Nylon"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0134_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0134_(150).jpg",
+                            "imageAlt": "Remix, 066",
+                            "id": "remix-066",
+                            "value": "remix-066-value",
+                            "text": "Remix, 066",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 066",
+                            "conflicting": false,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo 2"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% wool (worsted), 10% nylon"
+                                    },
+                                    {
+                                        "label": "Durability",
+                                        "text": "100,000 Martindale"
+                                    },
+                                    {
+                                        "label": "Sustainability",
+                                        "text": "Complies with EU ecolabel 'The Flower'"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0746_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0746_(150).jpg",
+                            "imageAlt": "Remix, 094",
+                            "id": "remix-094",
+                            "value": "remix-094-value",
+                            "text": "Remix, 094",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 094",
+                            "conflicting": true,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo 3"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% Nylon 3"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0134_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0134_(150).jpg",
+                            "imageAlt": "Remix, 061",
+                            "id": "remix-061",
+                            "value": "remix-061-value",
+                            "text": "Remix, 061",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 061",
+                            "conflicting": false,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo 2"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% Nylon 2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0746_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0746_(150).jpg",
+                            "imageAlt": "Remix, 091",
+                            "id": "remix-091",
+                            "value": "remix-091-value",
+                            "text": "Remix, 091",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 091",
+                            "conflicting": false,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo 3"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% Nylon 3"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0134_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0134_(150).jpg",
+                            "imageAlt": "Remix, 067",
+                            "id": "remix-067",
+                            "value": "remix-067-value",
+                            "text": "Remix, 067",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 067",
+                            "conflicting": false,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo 2"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% Nylon 2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0746_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0746_(150).jpg",
+                            "imageAlt": "Remix, 052",
+                            "id": "remix-052",
+                            "value": "remix-052-value",
+                            "text": "Remix, 052",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 052",
+                            "conflicting": false,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo 3"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% Nylon 3"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0134_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0134_(150).jpg",
+                            "imageAlt": "Remix, 012",
+                            "id": "remix-012",
+                            "value": "remix-012-value",
+                            "text": "Remix, 012",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 012",
+                            "conflicting": false,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo 2"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% Nylon 2"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "imageThumb": "/static/images/textiles/f-1221-c0746_(150)-thumb.jpg",
+                            "imageLarge": "/static/images/textiles/f-1221-c0746_(150).jpg",
+                            "imageAlt": "Remix, 033",
+                            "id": "remix-033",
+                            "value": "remix-033-value",
+                            "text": "Remix, 033",
+                            "itemLabel": "Textile name",
+                            "name": "Remix, 033",
+                            "conflicting": false,
+                            "info": {
+                                "extra": [
+                                    {
+                                        "label": "Designer",
+                                        "text": "Dijkmeier & Ridolfo 3"
+                                    },
+                                    {
+                                        "label": "Composition",
+                                        "text": "90% Nylon 3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "groupType": "radio",
+                    "label": "Base shell",
+                    "id": "base-shell-id",
+                    "hasConflict": false,
+                    "initialSelectedOption": {
+                        "name": "Shell 01",
+                        "id": "shell-01",
+                        "value": "shell-01-value",
+                        "conflicting": false
+                    },
+                    "options": [
+                        {
+                            "id": "shell-01",
+                            "value": "shell-01-value",
+                            "name": "Shell 01",
+                            "conflicting": false
+                        },
+                        {
+                            "id": "option-2",
+                            "value": "option-2-value",
+                            "name": "Option 2",
+                            "conflicting": true
+                        },
+                        {
+                            "id": "option-3",
+                            "value": "option-3-value",
+                            "name": "Option 3",
+                            "conflicting": false
+                        },
+                        {
+                            "id": "option-4",
+                            "value": "option-4-value",
+                            "name": "Option 4",
+                            "conflicting": false
+                        },
+                        {
+                            "id": "option-5",
+                            "value": "option-5-value",
+                            "name": "Option 5",
+                            "conflicting": false
+                        }
+                    ]
+                },
+                {
+                    "groupType": "colorRadio",
+                    "label": "Color",
+                    "id": "color-selection-id",
+                    "hasConflict": false,
+                    "initialSelectedOption": {
+                        "id": "plum-color",
+                        "value": "plum-color-value",
+                        "name": "Plum",
+                        "conflicting": false,
+                        "color": "#7e4e46"
+                    },
+                    "options": [
+                        {
+                            "id": "plum-color",
+                            "value": "plum-color-value",
+                            "name": "Plum",
+                            "conflicting": false,
+                            "color": "#7e4e46"
+                        },
+                        {
+                            "id": "olive-color",
+                            "value": "olive-color-value",
+                            "name": "Olive",
+                            "conflicting": true,
+                            "color": "#847C5E"
+                        },
+                        {
+                            "id": "mustard-color",
+                            "value": "mustard-color-value",
+                            "name": "Mustard",
+                            "conflicting": false,
+                            "color": "#CC9E22"
+                        },
+                        {
+                            "id": "midnight-blue-color",
+                            "value": "midnight-blue-color-value",
+                            "name": "Midnight blue",
+                            "conflicting": false,
+                            "color": "#353754"
+                        },
+                        {
+                            "id": "rose-color",
+                            "value": "rose-color-value",
+                            "name": "Rose",
+                            "conflicting": false,
+                            "color": "#F2D7C6"
+                        },
+                        {
+                            "id": "light-green-color",
+                            "value": "light-green-color-value",
+                            "name": "Light green",
+                            "conflicting": false,
+                            "color": "#B7CCBE"
+                        }
+                    ]
+                },
+                {
+                    "groupType": "radio",
+                    "label": "Facing",
+                    "id": "facing-selection-id",
+                    "hasConflict": false,
+                    "initialSelectedOption": {
+                        "id": "left-facing",
+                        "value": "left",
+                        "name": "Left",
+                        "conflicting": false
+                    },
+                    "options": [
+                        {
+                            "id": "left-facing",
+                            "value": "left",
+                            "name": "Left",
+                            "conflicting": false
+                        },
+                        {
+                            "id": "right-facing",
+                            "value": "right",
+                            "name": "Right",
+                            "conflicting": false
+                        }
+                    ]
+                }
+            ]
+        }
+    },
     "cart": {
         "items": [
             {
