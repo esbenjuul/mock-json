@@ -485,334 +485,331 @@
             }
         ]
     },
-    "cart": {
-        "items": [
-            {
-                "name": "Fiber Armchairs",
-                "typeTitle": "Wood bases",
-                "sku": "sku123456789-0",
-                "quantity": 2,
-                "colliProduct": true,
-                "colliAmount": 6,
-                "price": "899.90",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "4-5",
-                    "measure": "days"
-                },
-                "settings": [
-                    "65 cm with Backrest, Refine",
-                    "Leather - Cognac / Black"
-                ]
+    "cartItems": [
+        {
+            "name": "Fiber Armchairs",
+            "typeTitle": "Wood bases",
+            "sku": "sku123456789-0",
+            "quantity": 2,
+            "colliProduct": true,
+            "colliAmount": 6,
+            "price": "899.90",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "4-5",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 2",
-                "typeTitle": "Fiber base",
-                "sku": "sku123456789-1",
-                "quantity": 5,
-                "colliProduct": true,
-                "colliAmount": 8,
-                "price": "2249.75",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "65 cm with Backrest, Refine",
+                "Leather - Cognac / Black"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 2",
+            "typeTitle": "Fiber base",
+            "sku": "sku123456789-1",
+            "quantity": 5,
+            "colliProduct": true,
+            "colliAmount": 8,
+            "price": "2249.75",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 3",
-                "typeTitle": "Wood base",
-                "sku": "sku123456789-2",
-                "quantity": 1,
-                "colliProduct": false,
-                "colliAmount": 1,
-                "price": "449.95",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 3",
+            "typeTitle": "Wood base",
+            "sku": "sku123456789-2",
+            "quantity": 1,
+            "colliProduct": false,
+            "colliAmount": 1,
+            "price": "449.95",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 2",
-                "typeTitle": "Fiber base",
-                "sku": "sku123456789-1",
-                "quantity": 5,
-                "colliProduct": true,
-                "colliAmount": 8,
-                "price": "2249.75",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 2",
+            "typeTitle": "Fiber base",
+            "sku": "sku123456789-1",
+            "quantity": 5,
+            "colliProduct": true,
+            "colliAmount": 8,
+            "price": "2249.75",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 3",
-                "typeTitle": "Wood base",
-                "sku": "sku123456789-2",
-                "quantity": 1,
-                "colliProduct": false,
-                "colliAmount": 1,
-                "price": "449.95",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 3",
+            "typeTitle": "Wood base",
+            "sku": "sku123456789-2",
+            "quantity": 1,
+            "colliProduct": false,
+            "colliAmount": 1,
+            "price": "449.95",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 2",
-                "typeTitle": "Fiber base",
-                "sku": "sku123456789-1",
-                "quantity": 5,
-                "colliProduct": true,
-                "colliAmount": 8,
-                "price": "2249.75",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 2",
+            "typeTitle": "Fiber base",
+            "sku": "sku123456789-1",
+            "quantity": 5,
+            "colliProduct": true,
+            "colliAmount": 8,
+            "price": "2249.75",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 3",
-                "typeTitle": "Wood base",
-                "sku": "sku123456789-2",
-                "quantity": 1,
-                "colliProduct": false,
-                "colliAmount": 1,
-                "price": "449.95",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 3",
+            "typeTitle": "Wood base",
+            "sku": "sku123456789-2",
+            "quantity": 1,
+            "colliProduct": false,
+            "colliAmount": 1,
+            "price": "449.95",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 2",
-                "typeTitle": "Fiber base",
-                "sku": "sku123456789-1",
-                "quantity": 5,
-                "colliProduct": true,
-                "colliAmount": 8,
-                "price": "2249.75",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 2",
+            "typeTitle": "Fiber base",
+            "sku": "sku123456789-1",
+            "quantity": 5,
+            "colliProduct": true,
+            "colliAmount": 8,
+            "price": "2249.75",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 3",
-                "typeTitle": "Wood base",
-                "sku": "sku123456789-2",
-                "quantity": 1,
-                "colliProduct": false,
-                "colliAmount": 1,
-                "price": "449.95",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 3",
+            "typeTitle": "Wood base",
+            "sku": "sku123456789-2",
+            "quantity": 1,
+            "colliProduct": false,
+            "colliAmount": 1,
+            "price": "449.95",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 2",
-                "typeTitle": "Fiber base",
-                "sku": "sku123456789-1",
-                "quantity": 5,
-                "colliProduct": true,
-                "colliAmount": 8,
-                "price": "2249.75",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 2",
+            "typeTitle": "Fiber base",
+            "sku": "sku123456789-1",
+            "quantity": 5,
+            "colliProduct": true,
+            "colliAmount": 8,
+            "price": "2249.75",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 3",
-                "typeTitle": "Wood base",
-                "sku": "sku123456789-2",
-                "quantity": 1,
-                "colliProduct": false,
-                "colliAmount": 1,
-                "price": "449.95",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 3",
+            "typeTitle": "Wood base",
+            "sku": "sku123456789-2",
+            "quantity": 1,
+            "colliProduct": false,
+            "colliAmount": 1,
+            "price": "449.95",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 2",
-                "typeTitle": "Fiber base",
-                "sku": "sku123456789-1",
-                "quantity": 5,
-                "colliProduct": true,
-                "colliAmount": 8,
-                "price": "2249.75",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 2",
+            "typeTitle": "Fiber base",
+            "sku": "sku123456789-1",
+            "quantity": 5,
+            "colliProduct": true,
+            "colliAmount": 8,
+            "price": "2249.75",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 3",
-                "typeTitle": "Wood base",
-                "sku": "sku123456789-2",
-                "quantity": 1,
-                "colliProduct": false,
-                "colliAmount": 1,
-                "price": "449.95",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 3",
+            "typeTitle": "Wood base",
+            "sku": "sku123456789-2",
+            "quantity": 1,
+            "colliProduct": false,
+            "colliAmount": 1,
+            "price": "449.95",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 2",
-                "typeTitle": "Fiber base",
-                "sku": "sku123456789-1",
-                "quantity": 5,
-                "colliProduct": true,
-                "colliAmount": 8,
-                "price": "2249.75",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 2",
+            "typeTitle": "Fiber base",
+            "sku": "sku123456789-1",
+            "quantity": 5,
+            "colliProduct": true,
+            "colliAmount": 8,
+            "price": "2249.75",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 3",
-                "typeTitle": "Wood base",
-                "sku": "sku123456789-2",
-                "quantity": 1,
-                "colliProduct": false,
-                "colliAmount": 1,
-                "price": "449.95",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 3",
+            "typeTitle": "Wood base",
+            "sku": "sku123456789-2",
+            "quantity": 1,
+            "colliProduct": false,
+            "colliAmount": 1,
+            "price": "449.95",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 2",
-                "typeTitle": "Fiber base",
-                "sku": "sku123456789-1",
-                "quantity": 5,
-                "colliProduct": true,
-                "colliAmount": 8,
-                "price": "2249.75",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 2",
+            "typeTitle": "Fiber base",
+            "sku": "sku123456789-1",
+            "quantity": 5,
+            "colliProduct": true,
+            "colliAmount": 8,
+            "price": "2249.75",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
             },
-            {
-                "name": "Fiber Armchair 3",
-                "typeTitle": "Wood base",
-                "sku": "sku123456789-2",
-                "quantity": 1,
-                "colliProduct": false,
-                "colliAmount": 1,
-                "price": "449.95",
-                "unitPrice": "449.95",
-                "imageUrl": "/static/images/product/product-line-image-1.png",
-                "delivery": {
-                    "duration": "2-3",
-                    "measure": "days"
-                },
-                "settings": [
-                    "85 cm with Backrest, Refine",
-                    "Satin - Whiskey / Red"
-                ]
-            }
-        ]
-        
-    },
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        },
+        {
+            "name": "Fiber Armchair 3",
+            "typeTitle": "Wood base",
+            "sku": "sku123456789-2",
+            "quantity": 1,
+            "colliProduct": false,
+            "colliAmount": 1,
+            "price": "449.95",
+            "unitPrice": "449.95",
+            "imageUrl": "/static/images/product/product-line-image-1.png",
+            "delivery": {
+                "duration": "2-3",
+                "measure": "days"
+            },
+            "settings": [
+                "85 cm with Backrest, Refine",
+                "Satin - Whiskey / Red"
+            ]
+        }
+    ],
     "otherStuff": {},
     "search": {},
     "products": [
