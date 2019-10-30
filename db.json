@@ -3,6 +3,9 @@
         "code": "Autumn10-2019",
         "discountAmount": "10,00"
     },
+    "cartQuantity": {
+        "quantity": 17
+    },
     "initialOptionGroups": {
         "productInfo": {
             "productName": "Fiber Armchair - Left",
