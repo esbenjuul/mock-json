@@ -9,7 +9,7 @@
     "cartQuantity": {
         "quantity": 17
     },
-    "initialOptionGroups": {
+    "configuratorOptions": {
         "productInfo": {
             "cylindoStartFrame": 4,
             "productName": "Fiber Armchair - Left",
@@ -299,7 +299,7 @@
 
 
 
-    "configuratorOptionsOLDAllTest": {
+    "initialOptionGroups-OLDAllTest": {
         "productInfo": {
             "productName": "Fiber Armchair - Left",
             "sku": "sku1234567890",
