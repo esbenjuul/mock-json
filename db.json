@@ -24,41 +24,50 @@
                 "id": "upholsteryId",
                 "hasConflict": false,
                 "dropdownContents": {
-                    "color": [
-                        {
-                            "id": "blue-id",
-                            "text": "Blue"
-                        },
-                        {
-                            "id": "red-id",
-                            "text": "Red"
-                        },
-                        {
-                            "id": "green-id",
-                            "text": "Green"
-                        }
-                    ],
-                    "type": [
-                        {
-                            "id": "some-id",
-                            "text": "type A"
-                        },
-                        {
-                            "id": "someB-id",
-                            "value": "some-value",
-                            "text": "type B"
-                        }
-                    ],
-                    "name": [
-                        {
-                            "id": "remix-id",
-                            "text": "Remix"
-                        },
-                        {
-                            "id": "park-id",
-                            "text": "Park"
-                        }
-                    ]
+                    "color": {
+                        "label": "Choose color",
+                        "options": [
+                            {
+                                "id": "blue-id",
+                                "text": "Blue"
+                            },
+                            {
+                                "id": "red-id",
+                                "text": "Red"
+                            },
+                            {
+                                "id": "green-id",
+                                "text": "Green"
+                            }
+                        ]
+                    },
+                    "type": {
+                        "label": "Choose type",
+                        "options": [
+                            {
+                                "id": "some-id",
+                                "text": "type A"
+                            },
+                            {
+                                "id": "someB-id",
+                                "value": "some-value",
+                                "text": "type B"
+                            }
+                        ]
+                    },
+                    "name": {
+                        "label": "Choose name",
+                        "options": [
+                            {
+                                "id": "remix-id",
+                                "text": "Remix"
+                            },
+                            {
+                                "id": "park-id",
+                                "text": "Park"
+                            }
+                        ]
+                    }
                 },
                 "initialSelectedOption": {
                     "imageThumb": "/static/images/textiles/marine-(150)-thumb.jpg",
