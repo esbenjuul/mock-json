@@ -8,6 +8,7 @@
     },
     "initialOptionGroups": {
         "productInfo": {
+            "cylindoStartFrame": 4,
             "productName": "Fiber Armchair - Left",
             "sku": "sku1234567890",
             "cylindoSku": "CHAISE_LONGUE_FIORD_151",
