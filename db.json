@@ -62,6 +62,281 @@
     },
     "initialOptionGroups": {
         "productInfo": {
+            "cylindoStartFrame": 4,
+            "productName": "Fiber Armchair - Left",
+            "sku": "sku1234567890",
+            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+            "features": {
+                "fabric": "Fabric_Denim",
+                "facing": "left"
+            }
+        },
+        "optionGroups": [
+            
+            {
+                "groupType": "upholstery",
+                "label": "Upholstery",
+                "id": "upholsteryId",
+                "hasConflict": false,
+                "dropdownContents": {
+                    "color": {
+                        "label": "Choose color",
+                        "options": [
+                            {
+                                "id": "blue-id",
+                                "text": "Blue"
+                            },
+                            {
+                                "id": "red-id",
+                                "text": "Red"
+                            },
+                            {
+                                "id": "green-id",
+                                "text": "Green"
+                            }
+                        ]
+                    },
+                    "type": {
+                        "label": "Choose type",
+                        "options": [
+                            {
+                                "id": "some-id",
+                                "text": "type A"
+                            },
+                            {
+                                "id": "someB-id",
+                                "value": "some-value",
+                                "text": "type B"
+                            }
+                        ]
+                    },
+                    "name": {
+                        "label": "Choose name",
+                        "options": [
+                            {
+                                "id": "remix-id",
+                                "text": "Remix"
+                            },
+                            {
+                                "id": "park-id",
+                                "text": "Park"
+                            }
+                        ]
+                    }
+                },
+                "initialSelectedOption": {
+                    "imageThumb": "/static/images/textiles/marine-(150)-thumb.jpg",
+                    "imageLarge": "/static/images/textiles/marine-(150).jpg",
+                    "imageAlt": "Remix, 062",
+                    "name": "Remix, 062",
+                    "text": "Remix, 062",
+                    "itemLabel": "Textile name",
+                    "id": "remix-062",
+                    "value": "remix-062-value",
+                    "conflicting": false,
+                    "cylindoProductData": {
+                        "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                        "feature": "Fabric",
+                        "value": "Fabric_Denim"
+                    },
+                    "info": {
+                        "extra": [
+                            {
+                                "label": "Designer",
+                                "text": "Dijkmeier & Ridolfo"
+                            },
+                            {
+                                "label": "Composition",
+                                "text": "90% Nylon"
+                            }
+                        ]
+                    }
+                },
+                "options": [
+                    {
+                        "imageThumb": "/static/images/textiles/marine-(150)-thumb.jpg",
+                        "imageLarge": "/static/images/textiles/marine-(150).jpg",
+                        "imageAlt": "Remix, 062",
+                        "name": "Remix, 062",
+                        "text": "Remix, 062",
+                        "itemLabel": "Textile name",
+                        "id": "remix-062",
+                        "value": "remix-062-value",
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Fabric",
+                            "value": "Fabric_Denim"
+                        },
+                        "info": {
+                            "extra": [
+                                {
+                                    "label": "Designer",
+                                    "text": "Dijkmeier & Ridolfo"
+                                },
+                                {
+                                    "label": "Composition",
+                                    "text": "90% Nylon"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "imageThumb": "/static/images/textiles/orange-(150)-thumb.jpg",
+                        "imageLarge": "/static/images/textiles/orange-(150).jpg",
+                        "imageAlt": "Remix, 063",
+                        "name": "Remix, 063",
+                        "text": "Remix, 063",
+                        "itemLabel": "Textile name",
+                        "id": "remix-063",
+                        "value": "remix-063-value",
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Fabric",
+                            "value": "SilkLeather_Cognac"
+                        },
+                        "info": {
+                            "extra": [
+                                {
+                                    "label": "Designer",
+                                    "text": "Dijkmeier & Ridolfo"
+                                },
+                                {
+                                    "label": "Composition",
+                                    "text": "90% Nylon"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "imageThumb": "/static/images/textiles/grey-(150)-thumb.jpg",
+                        "imageLarge": "/static/images/textiles/grey-(150).jpg",
+                        "imageAlt": "Remix, 064",
+                        "name": "Remix, 064",
+                        "text": "Remix, 064",
+                        "itemLabel": "Textile name",
+                        "id": "remix-064",
+                        "value": "remix-064-value",
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Fabric",
+                            "value": "SteelcutTrio2_133"
+                        },
+                        "info": {
+                            "extra": [
+                                {
+                                    "label": "Designer",
+                                    "text": "Dijkmeier & Ridolfo"
+                                },
+                                {
+                                    "label": "Composition",
+                                    "text": "90% Nylon"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "imageThumb": "/static/images/textiles/turquoise-(150)-thumb.jpg",
+                        "imageLarge": "/static/images/textiles/turquoise-(150).jpg",
+                        "imageAlt": "Remix, 065",
+                        "name": "Remix, 065",
+                        "text": "Remix, 065",
+                        "itemLabel": "Textile name",
+                        "id": "remix-065",
+                        "value": "remix-065-value",
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Fabric",
+                            "value": "Still_641"
+                        },
+                        "info": {
+                            "extra": [
+                                {
+                                    "label": "Designer",
+                                    "text": "Dijkmeier & Ridolfo"
+                                },
+                                {
+                                    "label": "Composition",
+                                    "text": "90% Nylon"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "imageThumb": "/static/images/textiles/orange-(150)-thumb.jpg",
+                        "imageLarge": "/static/images/textiles/orange-(150).jpg",
+                        "imageAlt": "Remix, 067",
+                        "name": "Remix, 067",
+                        "text": "Remix, 067",
+                        "itemLabel": "Textile name",
+                        "id": "remix-067",
+                        "value": "remix-067-value",
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Fabric",
+                            "value": "Vidar3_472"
+                        },
+                        "info": {
+                            "extra": [
+                                {
+                                    "label": "Designer",
+                                    "text": "Dijkmeier & Ridolfo"
+                                },
+                                {
+                                    "label": "Composition",
+                                    "text": "90% Nylon"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "groupType": "radio",
+                "label": "Facing",
+                "id": "facing-selection-id",
+                "hasConflict": false,
+                "initialSelectedOption": {
+                    "id": "left-facing",
+                    "value": "left",
+                    "name": "Left",
+                    "conflicting": false
+                },
+                "options": [
+                    {
+                        "id": "left-facing",
+                        "value": "left",
+                        "name": "Left",
+                        "conflicting": false
+                    },
+                    {
+                        "id": "right-facing",
+                        "value": "right",
+                        "name": "Right",
+                        "conflicting": false
+                    }
+                ]
+            }
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    "configuratorOptionsOLDAllTest": {
+        "productInfo": {
             "productName": "Fiber Armchair - Left",
             "sku": "sku1234567890",
             "cylindoSku": "CHAISE_LONGUE_FIORD_151",
@@ -542,6 +817,22 @@
             }
         ]
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     "cartItems": [
         {
             "name": "Fiber Armchairs",
