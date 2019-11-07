@@ -253,20 +253,35 @@
                     "id": "left-facing",
                     "value": "left",
                     "name": "Left",
-                    "conflicting": false
+                    "conflicting": false,
+                    "cylindoProductData": {
+                        "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                        "feature": "Facing",
+                        "value": "Left"
+                    }
                 },
                 "options": [
                     {
                         "id": "left-facing",
                         "value": "left",
                         "name": "Left",
-                        "conflicting": false
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Facing",
+                            "value": "Left"
+                        }
                     },
                     {
                         "id": "right-facing",
                         "value": "right",
                         "name": "Right",
-                        "conflicting": false
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Facing",
+                            "value": "Right"
+                        }
                     }
                 ]
             }
