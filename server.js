@@ -18,6 +18,10 @@ server.use(jsonServer.bodyParser)
 
 server.use((req, res, next) => {
   if (req.method === 'POST') {
+  	console.log('Post method:');
+  	console.log('req:', req);
+  	console.log('res:', res);
+  	// console.log('next:', next);
     req.body.createdAt = Date.now()
   }
   // Continue to JSON Server router
