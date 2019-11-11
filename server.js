@@ -27,7 +27,7 @@ server.use((req, res, next) => {
   }
   // Continue to JSON Server router
   next()
-})
+}) 
 
 // Use default router
 server.use(router)
