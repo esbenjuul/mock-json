@@ -1184,6 +1184,106 @@
             "hasquickview": false,
 
             "type": "master-noimage"
+        },        
+        {
+            "id": 2,
+            "title": "Fiber armchair",
+            "subtitle": "Tube base",
+            "productimage": {
+                "small": "/static/images/product/fiber-armchair-400w.png",
+                "large": "/static/images/product/fiber-armchair-700w.png"
+            },
+            "productimagealt": "Image alt text",
+            "producturl": "#product-1",
+            "fromprice": "450",
+            "price": "450",
+            "frompricelabel": "From",
+            "currencycharacter": "€",
+            "delivery": "5-7 days",
+            "deliverylabel": "Delivery:",
+            "vat": "Your price, excl. VAT",
+            "showquantity": true,
+            "quantitystartvalue": 32,
+            "showaddtocart": true,
+            "addtocarttext": "Add to cart",
+            "hasquickview": false,
+
+            "type": "master-noimage"
+        },
+        {
+            "id": 2,
+            "title": "Fiber armchair",
+            "subtitle": "Tube base",
+            "productimage": {
+                "small": "/static/images/product/fiber-armchair-400w.png",
+                "large": "/static/images/product/fiber-armchair-700w.png"
+            },
+            "productimagealt": "Image alt text",
+            "producturl": "#product-1",
+            "fromprice": "450",
+            "price": "450",
+            "frompricelabel": "From",
+            "currencycharacter": "€",
+            "delivery": "5-7 days",
+            "deliverylabel": "Delivery:",
+            "vat": "Your price, excl. VAT",
+            "showquantity": true,
+            "quantitystartvalue": 32,
+            "showaddtocart": true,
+            "addtocarttext": "Add to cart",
+            "hasquickview": false,
+
+            "type": "master-noimage"
+        },
+        {
+            "id": 2,
+            "title": "Fiber armchair",
+            "subtitle": "Tube base",
+            "productimage": {
+                "small": "/static/images/product/fiber-armchair-400w.png",
+                "large": "/static/images/product/fiber-armchair-700w.png"
+            },
+            "productimagealt": "Image alt text",
+            "producturl": "#product-1",
+            "fromprice": "450",
+            "price": "450",
+            "frompricelabel": "From",
+            "currencycharacter": "€",
+            "delivery": "5-7 days",
+            "deliverylabel": "Delivery:",
+            "vat": "Your price, excl. VAT",
+            "showquantity": true,
+            "quantitystartvalue": 32,
+            "showaddtocart": true,
+            "addtocarttext": "Add to cart",
+            "hasquickview": false,
+
+            "type": "master-noimage"
+        },
+        {
+            "id": 2,
+            "title": "Fiber armchair",
+            "subtitle": "Tube base",
+            "productimage": {
+                "small": "/static/images/product/fiber-armchair-400w.png",
+                "large": "/static/images/product/fiber-armchair-700w.png"
+            },
+            "productimagealt": "Image alt text",
+            "producturl": "#product-1",
+            "fromprice": "450",
+            "price": "450",
+            "frompricelabel": "From",
+            "currencycharacter": "€",
+            "delivery": "5-7 days",
+            "deliverylabel": "Delivery:",
+            "vat": "Your price, excl. VAT",
+            "showquantity": true,
+            "quantitystartvalue": 32,
+            "showaddtocart": true,
+            "addtocarttext": "Add to cart",
+            "hasquickview": false,
+
+            "type": "master-noimage"
         }
     ]
 }
