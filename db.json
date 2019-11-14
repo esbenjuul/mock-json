@@ -9,7 +9,8 @@
     "cartQuantity": {
         "quantity": 17
     },
-    "initialOptionGroups": {
+    
+    "configuratorOptions": {
         "productInfo": {
             "cylindoStartFrame": 4,
             "productName": "Fiber Armchair - Left",
@@ -253,20 +254,35 @@
                     "id": "left-facing",
                     "value": "left",
                     "name": "Left",
-                    "conflicting": false
+                    "conflicting": false,
+                    "cylindoProductData": {
+                        "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                        "feature": "Facing",
+                        "value": "Left"
+                    }
                 },
                 "options": [
                     {
                         "id": "left-facing",
                         "value": "left",
                         "name": "Left",
-                        "conflicting": false
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Facing",
+                            "value": "Left"
+                        }
                     },
                     {
                         "id": "right-facing",
                         "value": "right",
                         "name": "Right",
-                        "conflicting": false
+                        "conflicting": false,
+                        "cylindoProductData": {
+                            "cylindoSku": "CHAISE_LONGUE_FIORD_151",
+                            "feature": "Facing",
+                            "value": "Right"
+                        }
                     }
                 ]
             }
@@ -284,7 +300,7 @@
 
 
 
-    "configuratorOptionsOLDAllTest": {
+    "initialOptionGroups-OLDAllTest": {
         "productInfo": {
             "productName": "Fiber Armchair - Left",
             "sku": "sku1234567890",
