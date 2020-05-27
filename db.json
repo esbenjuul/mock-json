@@ -98,6 +98,32 @@
                             {
                                 "label": "Composition",
                                 "text": "90% Nylon"
+                            },
+                            {
+                                "label": "Maintenance & care",
+                                "images": [
+                                    {"url":"/static/svg/geolocation-point.svg", "alt":"Hand wash"},
+                                    {"url":"/static/svg/geolocation-point.svg", "alt":"No iron"}
+                                ]
+                            },
+                            {
+                                "label": "Composition",
+                                "text": "90% Nylon"
+                            },
+                            {
+                                "label": "Composition",
+                                "text": "90% Nylon"
+                            },
+                            {
+                                "label": "Composition",
+                                "text": "90% Nylon"
+                            },
+                            {
+                                "label": "Maintenance & care",
+                                "images": [
+                                    {"url":"/static/svg/geolocation-point.svg", "alt":"Hand wash"},
+                                    {"url":"/static/svg/geolocation-point.svg", "alt":"No iron"}
+                                ]
                             }
                         ]
                     }
