@@ -1,4 +1,56 @@
 {
+    "fh": {
+        "products": [
+            {
+                "name": "LILJEN",
+                "pid": "3208_lily_clear_lac",
+                "color": "#000FFF",
+                "formattedPrice": "8.000,00 DKK",
+                "url": "//fritzhansen.com/da-dk/products/chairs/3208_lily_clear_lac",
+                "imageUrl": "//fritzhansenimagecdn.azureedge.net/~/media/images/products/chairs/lily/3208_lily_walnut_natural-veneer-png.png",
+                "type": "chair",
+                "designer": "Arne Jacobsen",
+                "delivery": " 3-4 uger",
+                "description": "Oprindeligt blev Liljen™ designet til Danmarks Nationalbank. Som den første stol i serien blev model 3108 uden armlæn introduceret i 1968, mens udgaven med armlæn, model 3208, blev præsenteret på den danske møbelmesse i 1970. Stolen er lavet af lamineret formpresset finér og er resultatet af en yderst kompliceret formpresningsproces, der giver stolens dens karakteristiske kurver og optimale komfort. For at hylde Liljen™, den sidste stol Arne Jacobsen designede og som nu kan fejre sit 50-års jubilæum, relanceres stolen  i 2020 i sin originale version i valnødfinér."
+            },
+            {
+                "name": "MYREN",
+                "pid": "3101_ant_coloured_ash_monochrome",
+                "color": "#000FFF",
+                "formattedPrice": "1.995,00 DKK",
+                "url": "https://fritzhansen.com/da-dk/products/chairs/3101_ant_coloured_ash_monochrome",
+                "imageUrl": "https://fritzhansenimagecdn.azureedge.net/~/media/images/products/chairs/ant/fh_ant_3101_arne_jacobsen_coloured_ash_pale_pink_monochrome_front_low-png.png",
+                "type": "chair",
+                "designer": "Arne Jacobsen",
+                "delivery": " 3-4 uger",
+                "description": "Den ikoniske Myren™ har et visuelt udtryk, der afspejler myrens organiske og genkendelige silhuet. Stolen, der blev designet af Arne Jacobsen i 1952, består af ni lag formpresset finér, hvilket giver den et elegant udtryk, der næsten underspiller stolens bemærkelsesværdige styrke og komfort."
+            },
+            {
+                "name": "LILLE GIRAF™",
+                "pid": "3201_little_giraffe_fabric_chromesteel",
+                "color": "#000FFF",
+                "formattedPrice": "7.575,00 DKK",
+                "url": "https://fritzhansen.com/da-dk/products/chairs/3201_little_giraffe_fabric_chromesteel",
+                "imageUrl": "https://fritzhansenimagecdn.azureedge.net/~/media/images/products/chairs/little-giraffe/fh_little-giraffe_dinner_3201_fh_colour_5801_pink_crom_base_1600x1840-png.png",
+                "type": "chair",
+                "designer": "Arne Jacobsen",
+                "delivery": " 3-4 uger",
+                "description": "Girafstolen, designet af Arne Jacobsen i 1959, blev tegnet til restauranten på SAS Royal Hotel i København og udstyret med en høj ryg og polstrede armlæn, der sikrede en god siddekomfort. Lille Giraf™ er en videreudvikling af den ikoniske forløber – en smuk og funktionel stol, der passer til hotel lobbyer, kantiner, mødelokaler eller rundt om middagsbordet."
+            },
+            {
+                "name": "SERIE 7™",
+                "pid": "3217_series7_full_lacquer_arms",
+                "color": "#000FFF",
+                "formattedPrice": "8.800,00 DKK",
+                "url": "https://fritzhansen.com/da-dk/products/chairs/3217_series7_full_lacquer_arms",
+                "imageUrl": "https://fritzhansenimagecdn.azureedge.net/~/media/images/products/chairs/series_7/series-7_3217_front_full-lacquer-black-png.png",
+                "type": "chair",
+                "designer": "Arne Jacobsen",
+                "delivery": " 3-4 uger",
+                "description": "Serie 7™ designet af Arne Jacobsen er den mest solgte stol i Fritz Hansens historie og måske i møbelhistorien. Den formpressede finerstol er en videreudvikling af den klassiske stol Myren™. Oplev Serie 7 som drejestol med armlæn for ultimativ komfort og et smukt, skulpturelt udtryk."
+            }
+        ]
+    },
     "plp": {
         
     },
